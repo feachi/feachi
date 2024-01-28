@@ -1,4 +1,4 @@
 ### FEACHI
 
-#IT economics major 
+# IT economics major 
 
